@@ -1,0 +1,14 @@
+C:\Project\AcceleratedLearning\FrontEnd\WebbAPI\SquareRootApp\SquareRootApp\bin\Debug\netcoreapp2.1\SquareRootApp.deps.json
+C:\Project\AcceleratedLearning\FrontEnd\WebbAPI\SquareRootApp\SquareRootApp\bin\Debug\netcoreapp2.1\SquareRootApp.runtimeconfig.json
+C:\Project\AcceleratedLearning\FrontEnd\WebbAPI\SquareRootApp\SquareRootApp\bin\Debug\netcoreapp2.1\SquareRootApp.runtimeconfig.dev.json
+C:\Project\AcceleratedLearning\FrontEnd\WebbAPI\SquareRootApp\SquareRootApp\bin\Debug\netcoreapp2.1\SquareRootApp.dll
+C:\Project\AcceleratedLearning\FrontEnd\WebbAPI\SquareRootApp\SquareRootApp\bin\Debug\netcoreapp2.1\SquareRootApp.pdb
+C:\Project\AcceleratedLearning\FrontEnd\WebbAPI\SquareRootApp\SquareRootApp\obj\Debug\netcoreapp2.1\SquareRootApp.csprojAssemblyReference.cache
+C:\Project\AcceleratedLearning\FrontEnd\WebbAPI\SquareRootApp\SquareRootApp\obj\Debug\netcoreapp2.1\SquareRootApp.csproj.CoreCompileInputs.cache
+C:\Project\AcceleratedLearning\FrontEnd\WebbAPI\SquareRootApp\SquareRootApp\obj\Debug\netcoreapp2.1\SquareRootApp.RazorAssemblyInfo.cache
+C:\Project\AcceleratedLearning\FrontEnd\WebbAPI\SquareRootApp\SquareRootApp\obj\Debug\netcoreapp2.1\SquareRootApp.RazorAssemblyInfo.cs
+C:\Project\AcceleratedLearning\FrontEnd\WebbAPI\SquareRootApp\SquareRootApp\obj\Debug\netcoreapp2.1\SquareRootApp.AssemblyInfoInputs.cache
+C:\Project\AcceleratedLearning\FrontEnd\WebbAPI\SquareRootApp\SquareRootApp\obj\Debug\netcoreapp2.1\SquareRootApp.AssemblyInfo.cs
+C:\Project\AcceleratedLearning\FrontEnd\WebbAPI\SquareRootApp\SquareRootApp\obj\Debug\netcoreapp2.1\SquareRootApp.RazorTargetAssemblyInfo.cache
+C:\Project\AcceleratedLearning\FrontEnd\WebbAPI\SquareRootApp\SquareRootApp\obj\Debug\netcoreapp2.1\SquareRootApp.dll
+C:\Project\AcceleratedLearning\FrontEnd\WebbAPI\SquareRootApp\SquareRootApp\obj\Debug\netcoreapp2.1\SquareRootApp.pdb
